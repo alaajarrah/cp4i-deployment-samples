@@ -46,7 +46,7 @@ SUM=0
 CURRENT_DIR=$(dirname $0)
 MISSING_PARAMS="false"
 DEFAULT_FILE_STORAGE="ibmc-file-gold-gid"
-DEFAULT_BLOCK_STORAGE="cp4i-block-performance"
+DEFAULT_BLOCK_STORAGE="ibmc-block-gold"
 
 while getopts "n:r:b:f:g:" opt; do
   case ${opt} in
