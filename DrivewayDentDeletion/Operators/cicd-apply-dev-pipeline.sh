@@ -16,7 +16,7 @@
 #   -r : <REPO> (string), Defaults to 'https://github.com/IBM/cp4i-deployment-samples.git'
 #   -b : <BRANCH> (string), Defaults to 'main'
 #   -f : <DEFAULT_FILE_STORAGE> (string), Default to 'ibmc-file-gold-gid'
-#   -g : <DEFAULT_BLOCK_STORAGE> (string), Default to 'cp4i-block-performance'
+#   -g : <DEFAULT_BLOCK_STORAGE> (string), Default to 'ibmc-block-gold'
 #
 #   With defaults values
 #     ./cicd-apply-dev-pipeline.sh
