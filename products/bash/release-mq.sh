@@ -19,7 +19,7 @@
 #   -q : <qm_name> (string), Defaults to "QUICKSTART"
 #   -z : <tracing_namespace> (string), Defaults to "namespace"
 #   -t : <tracing_enabled> (boolean), optional flag to enable tracing, Defaults to false
-#
+# 
 # USAGE:
 #   With defaults values
 #     ./release-mq.sh
